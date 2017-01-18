@@ -22,7 +22,12 @@ Koi pameti se proizvejdat masovo - imash naprimer MASK ROM , ROM s progarqne , E
 MASK ROM & EPROM + EEPROM
 ----------------------------------------- 
 Kak se zapisva pri MASK ROM , pri EPROM pri EEPROM i kak se trie
-?????
+
+MASK ROM - purvonachalno mostchetata gi nqma, s poslednata maska fotochuvstvitelen lak se programirat vsichki navednuj kato se postavqt aluminievi mostcheta
+
+EPROM - dobavq se elektrod v blizost do plavashtiq geit na koito se podavat el impulsi koito inducirat zarqdi vurhu plavashtiq geit i te si ostavat tam. Trienete stava chrez obluchvane na kristala s ultravioletova svetliva(prez prozorche), koqto izbiva zarqdite ot plavashtiq geit. Kogato zapisvame proverqvame koi e proizvoditelq i kak se zapisva na konkretnata pamet.
+
+EEPROM - el. programiruemi. Pisaneto i iztrivaneto stava chrez el. impulsi
 ----------------------------------------- 
 flash pametite energozavisimi li sa 
 ne
@@ -53,4 +58,8 @@ i trqbva da namerish T
 4 Регистри
 5 Мултивибратори
 6 да знаете таблицата със стойностите на R-овете защото има дадени стойности и се пита кои са неверните
--с какво трябва да бъде направен импулсен генератор че да бъде честотно стабилен
+
+-----------------------------------------
+С какво трябва да бъде направен импулсен генератор че да бъде честотно стабилен?
+
+s kvarcov kristal(rezonator)
