@@ -1,0 +1,56 @@
+E24 stoinostite
+1,0 1,1 1,2 1,3 1,5 1,6
+1,8 2,0 2,2 2,4 2,7 3,0
+3,3 3,6 3,9 4,3 4,7 5,1
+5,6 6,2 6,8 7,5 8,2 9,1
+----------------------------------------- 
+i formulite za f i T 
+?????
+----------------------------------------- 
+ROM energozavisima li e ? 
+ne
+----------------------------------------- 
+RAM energozavisima li e? 
+da
+----------------------------------------- 
+Paralelnaite registri sa ..... ot Posledovatelnite i imash naprimer po-burzi mogat da umnojavat i delqt 
+Paralelnite mogat da zapi6at navednuj vsi4ko ama sa mnogo malki na razmer
+Posledovatelnite zapisvat na tolkova takta kolkoto I sa golemi no za smetka na tova imat golemi razmeri
+left-right shift registry sa kato posledovatelnite I mogat da umnojavat I delqt
+----------------------------------------- 
+Koi pameti se proizvejdat masovo - imash naprimer MASK ROM , ROM s progarqne , EPROM i EEPROM i izbirash koe 
+MASK ROM & EPROM + EEPROM
+----------------------------------------- 
+Kak se zapisva pri MASK ROM , pri EPROM pri EEPROM i kak se trie
+?????
+----------------------------------------- 
+flash pametite energozavisimi li sa 
+ne
+----------------------------------------- 
+ednoto e da namerish R1 i R2
+kato imash dadena chestotata
+i kapaciteta na kondenzatora 
+?????
+----------------------------------------- 
+da namerish produljitelnostta na signala
+generiran ot multivibrator s timer 555
+T=1.1xRxC
+imash dadeno R i C
+i trqbva da namerish T 
+?????
+----------------------------------------- 
+
+та на първото за rom се пита да избереш правилното
+2 същото за динамична беше от какво е изграден
+3 за статична май беше същото
+5 е нали с какво трябва да бъде направен генератора CMos и т.н имаш дадени
+	
+едната формула там за честотата f=1/T
+а другата е за T-то абе знаете ги
+1 въпрос Rom
+2 Динамична памет
+3 Статична памет
+4 Регистри
+5 Мултивибратори
+6 да знаете таблицата със стойностите на R-овете защото има дадени стойности и се пита кои са неверните
+-с какво трябва да бъде направен импулсен генератор че да бъде честотно стабилен
